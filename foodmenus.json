@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "https://i.ibb.co/YhgMqkJ/breakfast1.png",
+    "img": "https://i.ibb.co/NTT8PF0/breakfast3.png",
     "name": "Khichuri Khazana",
     "price": 625,
     "rating": 5,
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "img": "https://i.ibb.co/BTptZrq/breakfast2.png",
+    "img": "https://i.ibb.co/yqgJvD6/breakfast1.png",
     "name": "Bhorta Bahar",
     "price": 400,
     "rating": 5,
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "img": "https://i.ibb.co/3BmYTjv/breakfast3.png",
+    "img": "https://i.ibb.co/hmNX5ct/breakfast2.png",
     "name": "Mach a Bhat",
     "price": 450,
     "rating": 5,
