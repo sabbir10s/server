@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/YhgMqkJ/breakfast1.png",
+    "name": "Khichuri Khazana",
+    "price": 625,
+    "rating": 5,
+    "description": "Moog Daal er Bhuna Khichuri, Served with Begun Bhaja( Fried Brinjal), Mach Bhaja (Fish Fry), Egg Masala Omlette /Egg Bhuna and choice of Chicken (Local) or Beef Bhuna. This Menu comes with Salad, Caramal Pudding/ Roshogolla and Tea/Coffee."
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/BTptZrq/breakfast2.png",
+    "name": "Bhorta Bahar",
+    "price": 400,
+    "rating": 5,
+    "description": "Fine Quality Steamed Rice (Katari bhog/Nazirshal), served with Thick Daal and your choice of five Bhrota. Choose any five-Begun Bhorta, Aloo Bhorta, Daal Bhorta, Egg Bhorta, Chingri Bhorta, Shutki Bhorta, Mach Bhorta, Sheem Bhorta, Barbati Bhorta, Patal Bhorta, Tomato Bhorta."
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/3BmYTjv/breakfast3.png",
+    "name": "Mach a Bhat",
+    "price": 450,
+    "rating": 5,
+    "description": "Fine Quality Steamed Rice (Katari bhog/Nazirshal), served with Thick Daal, Mixed Vegetable Bhaji and choice of Rui/Katal/ Illish Bhaji or Bhuna."
+  }
+]
