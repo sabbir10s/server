@@ -6,7 +6,7 @@
       "name": "NEXIQ",
       "type": "",
       "clientRepo": "https://github.com/sabbir10s/NEXIQ-client",
-      "serverRepo": "https://github.com/sabbir10s/NEXIQ-client",
+      "serverRepo": "https://github.com/sabbir10s/NEXIQ-server",
       "liveSite": "https://nexiq-1199a.web.app/",
       "technology": [
         "React.js",
