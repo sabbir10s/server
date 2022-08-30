@@ -1,42 +1,37 @@
 [
-    {
-      "_id": "62e777fe48d16af13619f970",
-      "title": "This is blog title",
-      "article": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
-      "blogImg": "http://placehold.it/32x32",
-      "author": "Sabbir Ahmed",
-      "AuthorImg": "https://i.ibb.co/GVjsS3C/profile-1.png"
-    },
-    {
-      "_id": "62e777fea17c6ce494296cb0",
-      "title": "This is blog title",
-      "article": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
-      "blogImg": "http://placehold.it/32x32",
-      "author": "Asgor Sani",
-      "AuthorImg": "https://i.ibb.co/fY7969j/profile-2.png"
-    },
-    {
-      "_id": "62e777fec4eb3d6926c8d3a1",
-      "title": "This is blog title",
-      "article": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
-      "blogImg": "http://placehold.it/32x32",
-      "author": "Yasin Arafat",
-      "AuthorImg": "https://i.ibb.co/zhkXSL9/profile-3.png"
-    },
-    {
-      "_id": "62e777fe996c329f6a9d5892",
-      "title": "This is blog title",
-      "article": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
-      "blogImg": "http://placehold.it/32x32",
-      "author": "Zehadul Islam Raju",
-      "AuthorImg": "https://i.ibb.co/2ZJ8Zrt/profile-4.jpg"
-    },
-    {
-      "_id": "62e777fe0fd8f8d3eb8ec11e",
-      "title": "This is blog title",
-      "article": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
-      "blogImg": "http://placehold.it/32x32",
-      "author": "Majharul Tanvir",
-      "AuthorImg": "https://i.ibb.co/fFdgMsn/profile-5.jpg"
-    }
-  ]
+  {
+    "title": "Why Your Next Big Project Should Use Typescript",
+    "article": "I have started a project named Myscheduler. It is a event scheduler website. It is going to be a big scale project. When working on a large application, Typescript is simpler to handle than JavaScript. The foundations of OOPs can be used to greatly simplify your work. Additionally, you can reduce issues caused by type mismatches in TypeScript by using the Editors more effectively.Microsoft created TypeScript as a programming language in 2012. Its primary goal is to increase the efficiency of creating complex applications.It was created as a superset of JavaScript and is an open-source language. Simply put, this means that any JavaScript-valid code is also valuable for TypeScript.The language does, however, introduce optional elements like typing and object-oriented programming. There is no library needed to take advantage of these functionalities. Simply transpile it into JavaScript using the TypeScript compilation tool to convert the source code from one language to another. The compiled TypeScript code will therefore have a Javascript equivalent when it is executed.A runtime environment called NodeJS makes it possible to create JavaScript on the server. Since its debut in 2011, it has gained widespread use. Because JavaScript is dynamic and poorly typed, writing server-side JavaScript can become challenging as the code base expands.Strong static characters are a common complaint among developers utilizing JavaScript from other languages, however TypeScript fills that need.It's important to keep in mind that this language makes javascript object-oriented programming simple. Additionally, by exposing syntax mistakes during compilation in a way that is comparable to a native language, it increases developer productivity.",
+    "blogImg": "https://i.ibb.co/PxDLYnW/sani.png",
+    "author": "Asgor Sani",
+    "authorImg": "https://i.ibb.co/fY7969j/profile-2.png"
+  },
+  {
+    "title": "My new challenge TypeScript",
+    "article": "Now I am working on a project named MySchadule. To work on this project I had to learn a new Technology which is Typescript. Though we have to work with different types of data and it is a team project Typescript implementation was important for our project. I never implemented typescript before. So it is very challenging to work on completely new technology.We are very benefited by implementing typescript in our project. We know Typescript Allows us static strick typing. For that reason, there is no conflict about data type in our teamwork. Which is very helpful for our team. When we work with any kind of data type if there is any issue with the data type then Typescript gives an error. So it is very much easier to solve problems and move forward. It reduces the complexity of a project.",
+    "blogImg": "https://i.ibb.co/5sFpX4p/sabbir.png",
+    "author": "Sabbir Ahmed",
+    "authorImg": "https://i.ibb.co/GVjsS3C/profile-1.png"
+  },
+  {
+    "title": "What is TypeScript And Why is TypeScript?",
+    "article": "A superset of JavaScript is TypeScript. A compiled, strongly typed, object-oriented language is TypeScript. Anders Hejlsberg, the man behind C# at Microsoft, created it. Both a language and a collection of tools are part of TypeScript. JavaScript is TypeScript plus a few extra features. JavaScript is all that TypeScript is. JavaScript is used to introduce TypeScript and to wrap it up. The fundamental building blocks of your program are adopted by Typescript from JavaScript. As a result, all we need to use TypeScript is knowledge of JavaScript, which we already possess. For the purpose of execution, every TypeScript code is translated into its JavaScript equivalent. Other JS libraries are supported by TypeScript. Any JavaScript code can consume compiled TypeScript. The libraries, tools, and frameworks that are currently available for JavaScript can all be used with TypeScript-generated code.TypeScript is JavaScript. Accordingly, any legitimate.js file can be renamed to.ts and assembled with other TypeScript scripts.The portability of TypeScript. All operating systems, devices, and browsers support TypeScript. It can operate in any setting where JavaScript does. Contrary to its competitors, TypeScript may be used in any runtime environment and does not require a dedicated VM.The error-checking feature is offered by the TypeScript transpiler. If TypeScript detects any syntax mistakes, it will compile the code and produce compilation errors. This makes faults more obvious before the script is executed. Other JS libraries are supported by TypeScript. Any JavaScript code can consume compiled TypeScript. The libraries, tools, and frameworks that are currently available for JavaScript can all be used with TypeScript-generated code.",
+    "blogImg": "https://i.ibb.co/rcWvB2s/arafat.png",
+    "author": "Yasin Arafat",
+    "authorImg": "https://i.ibb.co/zhkXSL9/profile-3.png"
+  },
+  {
+    "title": "This is blog",
+    "article": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+    "blogImg": "https://i.ibb.co/d5qYp5J/raju.jpg",
+    "author": "Zehadul Islam Raju",
+    "authorImg": "https://i.ibb.co/2ZJ8Zrt/profile-4.jpg"
+  },
+  {
+    "title": "TypeScript",
+    "article": "TypeScript came about within Microsoft in 2012 as a way to help their  C++ or C# developers to write large-scale web applications, recalled Hoban, who was then part of the developer tools group at Microsoft.The natural choice was to use JavaScript, the dominant language for the web. But JavaScript didn’t offer much tooling to help developers organize, assist and check their code writing. Various early solutions worked on by Microsoft and other web-scale companies were mostly efforts to compile traditional languages such as C++ into JavaScript, though this left developers at “an arm’s length from the platform,” Hoban said.The developers of the project are proud of the flexibility that TypeScript offers. Simply mandating that the developer assign a previously-defined type to each variable would be overkill, they admitted. A developer may want to do something tricky, like create a function that makes identical copies of an object, but with the property names all in lower case. The type system had to support this complexity.The typing also helps with security. Built for a hostile web environment, JavaScript already has good built-in security, with built-in memory security and a bevy of runtime checks. Where Typescript helps is that it shows and prevents higher-level logic errors, especially those that can come from incorrectly handling input data.",
+    "blogImg": "https://i.ibb.co/KNP6YbS/tanvir.webp",
+    "author": "Majharul Tanvir",
+    "authorImg": "https://i.ibb.co/fFdgMsn/profile-5.jpg"
+  }
+]
