@@ -7,7 +7,7 @@
     "authorImg": "https://i.ibb.co/fY7969j/profile-2.png"
   },
   {
-    "title": "My new challenge TypeScript",
+    "title": "",
     "article": "Now I am working on a project named MySchadule. To work on this project I had to learn a new Technology which is Typescript. Though we have to work with different types of data and it is a team project Typescript implementation was important for our project. I never implemented typescript before. So it is very challenging to work on completely new technology.We are very benefited by implementing typescript in our project. We know Typescript Allows us static strick typing. For that reason, there is no conflict about data type in our teamwork. Which is very helpful for our team. When we work with any kind of data type if there is any issue with the data type then Typescript gives an error. So it is very much easier to solve problems and move forward. It reduces the complexity of a project.",
     "blogImg": "https://i.ibb.co/5sFpX4p/sabbir.png",
     "author": "Sabbir Ahmed",
