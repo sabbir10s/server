@@ -45,8 +45,9 @@
   },
   {
     "_id": "62a19fa5110935289d4ebf18",
-    "imgOne": "https://i.ibb.co/BzKWNJM/bike-pro.jpg",
-    "imgTwo": "https://i.ibb.co/3cFSvH4/bikePro.jpg",
+    "imgOne": "https://i.ibb.co/319h54Z/Web-Mockup.png",
+    "imgTwo": "https://i.ibb.co/9hsnDY5/Web-Mockup-1.png",
+    "imgThree": "https://i.ibb.co/vw2dxSR/Web-Mockup-2.png",
     "name": "Bike Pro",
     "type": "personal",
     "clientRepo": "https://github.com/sabbir10s/bike-pro-client",
