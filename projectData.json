@@ -1,8 +1,9 @@
 [
   {
     "_id": "62a19fa5d80987322f93e148",
-    "imgOne": "https://i.ibb.co/w0Wpd8c/nexiq.jpg",
-    "imgTwo": "http://placehold.it/32x32",
+    "imgOne": "https://i.ibb.co/P4qtxzx/my-Scheduler-1.png",
+    "imgTwo": "https://i.ibb.co/h7HNQds/my-Scheduler-2.png",
+    "imgThree": "https://i.ibb.co/wWstbHK/my-Scheduler-3.png",
     "name": "myScheduler",
     "type": "team",
     "clientRepo": "https://github.com/bmsani/myscheduler",
