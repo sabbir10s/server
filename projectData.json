@@ -23,8 +23,9 @@
   },
   {
     "_id": "62a19fa533a482858e4f1a3e",
-    "imgOne": "https://i.ibb.co/JKN55kd/nexiq.png",
-    "imgTwo": "http://placehold.it/32x32",
+    "imgOne": "https://i.ibb.co/m8wCdZ6/nexiq-1.png",
+    "imgTwo": "https://i.ibb.co/zmMzPZW/nexiq-2.png",
+    "imgThree": "https://i.ibb.co/v1McMrR/nexiq-3.png",
     "name": "NEXIQ",
     "type": "personal",
     "clientRepo": "https://github.com/sabbir10s/NEXIQ-client",
