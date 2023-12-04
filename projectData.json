@@ -1,37 +1,14 @@
 [
   {
-    "_id": "62a19fa5d80987322f93e148",
-    "imgOne": "https://i.ibb.co/P4qtxzx/my-Scheduler-1.png",
-    "imgTwo": "https://i.ibb.co/h7HNQds/my-Scheduler-2.png",
-    "imgThree": "https://i.ibb.co/wWstbHK/my-Scheduler-3.png",
-    "name": "myScheduler",
-    "type": "team",
-    "clientRepo": "https://github.com/bmsani/myscheduler",
-    "serverRepo": "https://github.com/bmsani/Myscheduler-server",
-    "liveSite": "https://myscheduler-893bf.firebaseapp.com/",
-    "technology": [
-      "React.js",
-      "TypeScript",
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "Firebase",
-      "JWT",
-      "Hook Form",
-      "Tailwind CSS"
-    ],
-    "description": "I did this project with the team M.M.A Developers, here my role was Front End Developer. Here users can create online events and manage appointments through Google Meet. My contribution: Wireframe Design, UI Design, User Profile, Payment System, Event booking etc"
-  },
-  {
     "_id": "62a19fa533a482858e4f1a3e",
-    "imgOne": "https://i.ibb.co/SQJ85sJ/nexiq-1.png",
+    "imgOne": "https://i.ibb.co/BNT4shp/imageOne.png",
     "imgTwo": "https://i.ibb.co/7bDV9bj/nexiq-2.png",
     "imgThree": "https://i.ibb.co/1r3WVVV/nexiq-3.png",
     "name": "NEXIQ",
     "type": "personal",
-    "clientRepo": "https://github.com/sabbir10s/NEXIQ-client",
-    "serverRepo": "https://github.com/sabbir10s/NEXIQ-server",
-    "liveSite": "https://nexiq-1199a.web.app/",
+    "clientRepo": "https://github.com/sabbir10s/keycap-client",
+    "serverRepo": "https://github.com/sabbir10s/keycap-server",
+    "liveSite": "https://keycap-54919.web.app",
     "technology": [
       "React.js",
       "Node.js",
@@ -66,5 +43,51 @@
       "Tailwind CSS"
     ],
     "description": "With this website, one user will be able to keep track of all the products in his warehouse. On this website, users can delete, update, and add their product information. All user facilities are protected by firebase authentication."
+  },
+  {
+    "_id": "62a19fa5d80987322f93e148",
+    "imgOne": "https://i.ibb.co/P4qtxzx/my-Scheduler-1.png",
+    "imgTwo": "https://i.ibb.co/h7HNQds/my-Scheduler-2.png",
+    "imgThree": "https://i.ibb.co/wWstbHK/my-Scheduler-3.png",
+    "name": "myScheduler",
+    "type": "team",
+    "clientRepo": "https://github.com/bmsani/myscheduler",
+    "serverRepo": "https://github.com/bmsani/Myscheduler-server",
+    "liveSite": "https://myscheduler-893bf.firebaseapp.com/",
+    "technology": [
+      "React.js",
+      "TypeScript",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "JWT",
+      "Hook Form",
+      "Tailwind CSS"
+    ],
+    "description": "I did this project with the team M.M.A Developers, here my role was Front End Developer. Here users can create online events and manage appointments through Google Meet. My contribution: Wireframe Design, UI Design, User Profile, Payment System, Event booking etc"
+  },
+  {
+    "_id": "62a19fa5d80987322f93e178",
+    "imgOne": "https://i.ibb.co/pbBCnd8/Group-8.png",
+    "imgTwo": "https://i.ibb.co/h7HNQds/my-Scheduler-2.png",
+    "imgThree": "https://i.ibb.co/wWstbHK/my-Scheduler-3.png",
+    "name": "daily-buy-e-commerce",
+    "type": "team",
+    "clientRepo": "https://github.com/bmsani/myscheduler",
+    "serverRepo": "https://github.com/bmsani/Myscheduler-server",
+    "liveSite": "https://myscheduler-893bf.firebaseapp.com/",
+    "technology": [
+      "React.js",
+      "TypeScript",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "JWT",
+      "Hook Form",
+      "Tailwind CSS"
+    ],
+    "description": "I did this project with the team M.M.A Developers, here my role was Front End Developer. Here users can create online events and manage appointments through Google Meet. My contribution: Wireframe Design, UI Design, User Profile, Payment System, Event booking etc"
   }
 ]
