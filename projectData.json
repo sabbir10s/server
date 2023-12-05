@@ -4,7 +4,7 @@
     "imgOne": "https://i.ibb.co/BNT4shp/imageOne.png",
     "imgTwo": "https://i.ibb.co/7bDV9bj/nexiq-2.png",
     "imgThree": "https://i.ibb.co/1r3WVVV/nexiq-3.png",
-    "name": "NEXIQ",
+    "name": "Keycap",
     "type": "personal",
     "clientRepo": "https://github.com/sabbir10s/keycap-client",
     "serverRepo": "https://github.com/sabbir10s/keycap-server",
@@ -20,7 +20,22 @@
       "Stripe",
       "Tailwind CSS"
     ],
-    "description": "NEXIQ is a full-stack website. In this project, I implemented user role management. A general user can purchase any product, manage her all orders and be able to pay for the order. An admin can upload a new product, manage all orders, see all users, create another admin."
+    "description": "Keycap is a React-based e-commerce platform for gadget enthusiasts.The project emphasizes reusability through the implementation of the React Context API. The website caters to both user and admin functionalities, ensuring a seamless experience for all stakeholders.",
+
+    "Features": {
+      "User-Centric Design": "Prioritized an intuitive user interface, allowing users to effortlessly browse, add products to the cart, and customize order quantities.",
+      "Order Tracking": "Users can track their orders in real-time, providing transparency and peace of mind.",
+      "Admin Functionality": "Admins enjoy a comprehensive suite of tools, including order management, product addition, and user management.",
+      "Reusable Components": "Employed React Context API to create reusable components, optimizing code efficiency and maintainability."
+    },
+    "Technology Stack": {
+      "Frontend": "React with reusable components.",
+      "Styling": "Tailwind for a clean and responsive design.",
+      "Backend": "Node and Express for robust server-side functionality.",
+      "Database": "MongoDB for efficient data storage and retrieval.",
+      "Payment Integration": "Integrated Stripe for secure and hassle-free transactions.",
+      "Authentication": "Implemented JWT and Firebase authentication, ensuring a secure and user-friendly experience"
+    }
   },
   {
     "_id": "62a19fa5110935289d4ebf18",
