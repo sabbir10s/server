@@ -67,9 +67,7 @@
     "imgThree": "https://i.ibb.co/wWstbHK/my-Scheduler-3.png",
     "name": "Daily-Buy-E-Commerce",
     "type": "team",
-    "clientRepo": "https://github.com/bmsani/myscheduler",
-    "serverRepo": "https://github.com/bmsani/Myscheduler-server",
-    "liveSite": "https://myscheduler-893bf.firebaseapp.com/",
+    "clientRepo": "https://github.com/sabbir10s/DailyBuy_E-commerce_React",
     "technology": ["React.js", "Redux", "Tailwind CSS"],
     "description": "During my internship at Nur Software, I undertook a pivotal role as a front-end developer for the 'Daily-Buy-E-Commerce' project. The project involved transforming a meticulously designed Figma prototype into a responsive and dynamic React application, catering to seamless user experiences across various devices."
   }
